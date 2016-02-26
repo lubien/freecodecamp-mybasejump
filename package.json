@@ -1,0 +1,27 @@
+{
+  "name": "freecodecamp-timestamp-microservice",
+  "version": "1.0.0",
+  "description": "This will simply take either a Unix Timestamp or a date string and return these both ways.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lubien/freecodecamp-timestamp-microservice.git"
+  },
+  "keywords": [
+    "FreeCodeCamp",
+    "Challenge"
+  ],
+  "author": "lubien <lubien1996@gmail.com> (http://lubien.info)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lubien/freecodecamp-timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/lubien/freecodecamp-timestamp-microservice#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "express": "^4.13.4"
+  }
+}
